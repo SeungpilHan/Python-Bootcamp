@@ -1,1 +1,6 @@
-print('hello World')
+a, b = input().split()
+a=int(a)
+b=int(b)
+b=int(b)
+print(a)
+print(b)
